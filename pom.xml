@@ -20,8 +20,6 @@
     <modules>
         <module>shishanS1</module>
         <module>others</module>
-        <module>shishanS1/kafka</module>
-        <module>shishanS1/kafka/kafka-demo</module>
     </modules>
 
 
