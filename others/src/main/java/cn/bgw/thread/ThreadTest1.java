@@ -1,10 +1,5 @@
 package cn.bgw.thread;
 
-import java.util.Collection;
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.Map;
-
 /**
  * 设计4个线程，其中两个线程每次对j+1， 另外两个线程每次对j-1；
  * 没看懂

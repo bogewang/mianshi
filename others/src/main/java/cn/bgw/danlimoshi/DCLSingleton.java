@@ -1,7 +1,5 @@
 package cn.bgw.danlimoshi;
 
-import java.util.Scanner;
-
 public class DCLSingleton {
     private static DCLSingleton instance = null;
 
